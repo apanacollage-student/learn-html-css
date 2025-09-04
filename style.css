@@ -1,3 +1,38 @@
 h1 {
     color:red;
 }
+button {
+    color:pink;
+    background-color: green;
+    box-shadow: inset;
+}
+body {
+    background-color:aqua;
+}
+a  {
+    color:black;
+}
+h1 {
+    color:blueviolet;
+}
+#heading1 {
+    color:black;
+}
+#heading2 {
+    color:green;
+
+}
+#heading3{
+    color:blue;
+}
+#heading4{
+    color:blueviolet;
+}
+.head {
+color:red;
+}
+
+#box {
+    background-color:blue;
+    color:red;
+}
