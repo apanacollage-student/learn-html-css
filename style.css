@@ -11,6 +11,7 @@ body {
 }
 a  {
     color:black;
+    text-decoration: NONE;
 }
 h1 {
     color:blueviolet;
@@ -35,4 +36,10 @@ color:red;
 #box {
     background-color:blue;
     color:red;
+}
+P {
+    text-align: RIGHT;
+}
+H5 {
+    text-align: center;
 }
