@@ -1,0 +1,42 @@
+/*div{
+    height:100px;
+    width:100px;
+    background-color:red;
+    border-radius: 50%;*/
+
+    *{
+        padding:0%;
+        margin:0%;
+        color:white
+    }
+    
+    #navbar {
+        height:60px;
+        background-color:black;
+    }
+
+
+    button{
+        background-color: yellow;
+        box-shadow: 2px;
+        font-size: medium;
+      }
+
+    #logo{
+        color:yellow;
+        font-size:29px;
+    }
+
+    a{
+        margin-right: 200px;
+        text-decoration: none;
+    }
+    #search{
+        border-color: #333;
+        box-shadow:0 0 0 3px;
+        font-size: 16px;
+        font-family: 'Courier New', Courier, monospace;
+        color:#666;
+    }
+
+

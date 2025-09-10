@@ -38,8 +38,45 @@ color:red;
     color:red;
 }
 P {
-    text-align: RIGHT;
+    text-align: left;
+    text-decoration:line-through ;
+    text-decoration:darkorange underline;
+    text-transform: uppercase;
+   
+    
 }
-H5 {
+h5 {
     text-align: center;
+    color:blue;
+     height: 50pxpx;
+    border: 2px;
+    border-style: solid;
+    border-color: red;
+    border-radius: 10px;
 }
+#font {
+    text-align: left;
+    font-family: 'Courier New', Courier, monospace;
+}
+ #ins {
+    height: 50;
+    width: 200px;
+    border: 2px;
+    border-style: double;
+    border-color:blueviolet;
+    background-color: red;
+ }
+ div{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    border-color: pink;
+    border-style: double;
+    text-align: center;
+    border-radius: 10%;
+    padding:50px
+ }
+
+
+
+
