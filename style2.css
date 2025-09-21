@@ -14,10 +14,12 @@ a  {
     text-decoration: NONE;
 }
 h1 {
-    color:blueviolet;
+    color:pink;
+    
 }
 #heading1 {
     color:black;
+    display:inline; /*jitna jaruri hai utna he width le ga */
 }
 #heading2 {
     color:green;
@@ -53,6 +55,7 @@ h5 {
     border-style: solid;
     border-color: red;
     border-radius: 10px;
+    
 }
 #font {
     text-align: left;
@@ -75,6 +78,19 @@ h5 {
     text-align: center;
     border-radius: 10%;
     padding:50px
+
+ }
+ #display{
+    text-align: center;
+    border-style: solid;
+    background-color: beige;
+    text-decoration: solid;
+    text-decoration-color: rgba(1, 0, 0, 0.5);
+    /*display: inline; hight or wieth kam karna*/
+    /*display:block kisi ko span se block element me convert karna*/
+    /*display:none; element ko deleat karna  visibility rahey ga */
+    
+
  }
 
 
