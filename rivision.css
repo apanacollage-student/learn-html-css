@@ -43,6 +43,9 @@ footer{
     height: 155px;
     background-color: black;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    position: sticky;
+    top: 0px;
+    
     
 
 }
